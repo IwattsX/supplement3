@@ -1,4 +1,12 @@
-// temp_utils.h
+/**
+ * @file temp_utils.h
+ * @author Isaac Watts (Isaac.s.watts@gmail.com)
+ * @brief contains function declarations of fahrenheit_to_celsius and celsius_to_fahrenheit
+ * @version 0.1
+ * @date 2024-11-22
+ * 
+ * 
+ */
 #ifndef TEMP_UTILS
 #define TEMP_UTILS
 

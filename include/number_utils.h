@@ -1,4 +1,12 @@
-// number_utils.h
+/**
+ * @file number_utils.h
+ * @author Isaac Watts (Isaac.s.watts@gmail.com)
+ * @brief contains a function declaration for is_even
+ * @version 0.1
+ * @date 2024-11-22
+ * 
+ * 
+ */
 #ifndef NUMBER_UTILS
 #define NUMBER_UTILS
 
